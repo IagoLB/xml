@@ -1,0 +1,33 @@
+﻿<?xml version="1.1" encoding="UTF-8"?>
+<equipodefutbol>
+  <equipo>
+  <nombre>SK Telecom</nombre>
+   <ciudad>Corea</ciudad>
+   <entrenador>Kim</entrenador>
+    <jugador>
+      <nombrejugador>Faker</nombrejugador>
+      <posicionjugador>midlane</posicionjugador>
+      <nacionalidad>Coreana</nacionalidad>
+    </jugador> 
+    <jugador>
+      <nombrejugador>Peanutr</nombrejugador>
+      <posicionjugador>jungle</posicionjugador>
+      <nacionalidad>Coreana</nacionalidad>
+    </jugador>
+  </equipo>
+   <equipo>
+  <nombre>Fnatic</nombre>
+   <ciudad>Madrid</ciudad>
+   <entrenador>Xpeke</entrenador>
+    <jugador>
+      <nombrejugador>Xpeke</nombrejugador>
+      <posicionjugador>midlane</posicionjugador>
+      <nacionalidad>Española</nacionalidad>
+    </jugador> 
+    <jugador>
+      <nombrejugador>Cyanide</nombrejugador>
+      <posicionjugador>jungle</posicionjugador>
+      <nacionalidad>Francesa</nacionalida>
+    </jugador>
+  </equipo>
+</equipodefutbol>

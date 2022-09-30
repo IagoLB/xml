@@ -1,0 +1,18 @@
+<?xml version="1.1" encoding="utf-8"?>
+<marcadores>
+  <pagina>
+    <nombre>Wikipedia</nombre>
+    <descripcion>A enciclopedia libre</descripcion>
+    <url>gl.wikipedia.org</url>
+  </pagina>
+  <pagina>
+    <nombre>Wiki do ucha</nombre>
+    <descripcion>A wiki do ucha</descripcion>
+    <url>wiki.cifprodolfoucha.es</url>
+  </pagina>
+  <pagina>
+    <nombre>W3schools</nombre>
+    <descripcion>Tutoriales en inglés</descripcion>
+    <url>w3schools.com</url>
+  </pagina>
+</marcadores>
